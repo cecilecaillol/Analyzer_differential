@@ -1,0 +1,2 @@
+      float Rivet_higgsPt,Rivet_jetPt,Rivet_mjj,tau1pt,tau2pt,tau1eta,tau2eta,muR1muF1,muR0p5muF0p5,muR2muF2,fulltau1pt,fulltau1eta,fulltau1phi,fulltau2pt,fulltau2eta,fulltau2phi,vistau1_pt,vistau1_eta,vistau1_phi,vistau2_pt,vistau2_eta,vistau2_phi,genMetPt,genMetPhi,dressedElectron_pt,dressedElectron_eta,dressedElectron_phi,dressedMuon_pt,dressedMuon_eta,dressedMuon_phi=-10;
+      int Rivet_njets,Rivet_stage1cat,Rivet_stage1cat_fine,finalstate=-1;
